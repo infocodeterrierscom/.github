@@ -1,4 +1,5 @@
-## CodeTerriers 👋
+
+![image](https://github.com/user-attachments/assets/79f33ecb-8fff-49f5-a305-396a49910c54)
 
 <!--
 
