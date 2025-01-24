@@ -1,13 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/79f33ecb-8fff-49f5-a305-396a49910c54)
+![image](https://github.com/user-attachments/assets/165dcbeb-7b74-4b83-a96e-73921f677f53)
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
